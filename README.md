@@ -6,6 +6,7 @@
 [![License](https://img.shields.io/pypi/l/askr)](https://github.com/Prevolut/askr/blob/main/LICENSE)
 
 Simple, validated input prompts for the terminal.
+![askr demo](https://raw.githubusercontent.com/Prevolut/askr/main/docs/demo.gif)
 
 Every function keeps asking until the answer is valid, so you never have to write
 another `while True` / `try` / `except ValueError` loop around `input()` again.
