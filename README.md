@@ -1,5 +1,10 @@
 # askr
 
+[![PyPI](https://img.shields.io/pypi/v/askr)](https://pypi.org/project/askr/)
+[![Python](https://img.shields.io/pypi/pyversions/askr)](https://pypi.org/project/askr/)
+[![Tests](https://github.com/Prevolut/askr/actions/workflows/tests.yml/badge.svg)](https://github.com/Prevolut/askr/actions/workflows/tests.yml)
+[![License](https://img.shields.io/pypi/l/askr)](https://github.com/Prevolut/askr/blob/main/LICENSE)
+
 Simple, validated input prompts for the terminal.
 
 Every function keeps asking until the answer is valid, so you never have to write
